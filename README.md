@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates a common error: division by zero. The `badproc` procedure does not handle the case where the input `x` is 0, resulting in a runtime error.  A solution is provided to handle this edge case gracefully.
