@@ -1,0 +1,1 @@
+proc goodproc {x} {if {$x == 0} {return 0} {return 1.0/$x}} #Added 1.0 to avoid integer division error and prevent error if x is 0
